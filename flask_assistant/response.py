@@ -24,7 +24,7 @@ class _Response(object):
                     "expect_user_response": True,
                     "is_ssml": True,
                     "permissions_request": None,
-                    "finalResponse": ''
+                    "finalResponse": "True"
                 }
             },
             'contextOut': [],
